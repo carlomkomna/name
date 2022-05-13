@@ -1,0 +1,35 @@
+    @import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
+
+    body {
+        background-color: #f1f1f1;
+        color: indigo;
+
+        /*font-size: 16px;*/
+        /*font-weight: normal;*/
+        /*font-family: 'Macondo', cursive;*/
+
+        font: normal 16px 'Macondo', cursive;
+    }
+    .h11 {
+        color: aqua;
+    }
+    .kotik {
+        width: 300px;
+        border-radius: 30px;
+        box-shadow: -14px -14px 28px rgba(0,0,0,0.99);
+    }
+
+    .nudes p {
+        color: black;
+        letter-spacing: 3px;
+    }
+    .nudes h2 {
+        color: black;
+    }
+
+    .all {
+
+    }
+    .social {
+        background: red;
+    }
